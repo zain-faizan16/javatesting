@@ -16,7 +16,7 @@ public class JavaCalculaor {
 			System.out.println(a*b);
 		} else if (operator == '/') {
 			System.out.println(a/b);
-		} else if (operator == '%') {
+		} else if (operator == '%') { 
 			System.out.println(a % b);
 		} else {
 			System.out.println("not a right operator");
