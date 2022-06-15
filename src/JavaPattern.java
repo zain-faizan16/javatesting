@@ -11,7 +11,7 @@ public class JavaPattern {
 				else {
 					System.out.println("*   *");	
 				}
-				
+				  
 		}
 	}
 
