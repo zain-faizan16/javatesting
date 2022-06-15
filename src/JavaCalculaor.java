@@ -5,6 +5,8 @@ public class JavaCalculaor {
 
 	public static void main(String[] args) {
 		Scanner  scanner = new Scanner(System.in);
+		
+		
 		Long a = scanner.nextLong();
 		char operator = scanner.next().charAt(0);
 		Long b = scanner.nextLong();
